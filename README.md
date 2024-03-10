@@ -9,7 +9,7 @@ Student of master degrees in Electronic and Information Engineering
 * 🖥️  See my portfolio at [nacl](https://www.naclerio.eu)
 * ✉️  You can contact me at [naclerio.pasquale@gmail.com](mailto:naclerio.pasquale@gmail.com)
 * 🧠  I'm learning Electronic and Information Engineering
-* 📚 Instructor of ICT (Information and Communication Technologies) and TTIMD (Technical Technologies Installation Maintenance and Diagnostics) at a secondary high school in the province of Pordenone.
+* 📚 Instructor of TIC (Information and Communication Technologies) and TTIMD (Technical Technologies Installation Maintenance and Diagnostics) at a secondary high school in the province of Pordenone.
 
 ### Skills
 
