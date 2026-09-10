@@ -28,40 +28,8 @@ My academic and technical interests include **electronics, telecommunications, a
 
 <p align="left">
 
-<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" />
-</a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="40" height="40" alt="Arduino" />
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
-</a>
-
-<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="40" height="40" alt="macOS" />
-</a>
-
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="40" height="40" alt="Raspberry Pi" />
-</a>
-
-
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=c,python,git,arduino,raspberrypi,linux)
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=android,apple,arduino,atom,autocad,chatgbt,c,css,excel,python,git,github,illustrator,matlab,raspberrypi,linux,powerpoint,vscode,windows,word,)
 
 </p>
 
