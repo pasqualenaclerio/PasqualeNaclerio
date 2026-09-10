@@ -47,10 +47,6 @@ My academic and technical interests include **electronics, telecommunications, a
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=raspberrypi" width="40" height="40" alt="Raspberry Pi" />
 </a>
 
-<a href="https://platformio.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=platformio" width="40" height="40" alt="PlatformIO" />
-</a>
-
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=matlab" width="40" height="40" alt="MATLAB" />
 </a>
@@ -70,30 +66,6 @@ My academic and technical interests include **electronics, telecommunications, a
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=python" width="40" height="40" alt="Python" />
 </a>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=numpy" width="40" height="40" alt="NumPy" />
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=pandas" width="40" height="40" alt="Pandas" />
-</a>
-
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=matplotlib" width="40" height="40" alt="Matplotlib" />
-</a>
-
-<a href="https://scipy.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=scipy" width="40" height="40" alt="SciPy" />
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=scikitlearn" width="40" height="40" alt="Scikit-learn" />
-</a>
-
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" width="40" height="40" alt="Jupyter" />
-</a>
-
 </p>
 
 
@@ -111,14 +83,6 @@ My academic and technical interests include **electronics, telecommunications, a
 
 <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=autocad" width="40" height="40" alt="AutoCAD" />
-</a>
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=blender" width="40" height="40" alt="Blender" />
-</a>
-
-<a href="https://inkscape.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=inkscape" width="40" height="40" alt="Inkscape" />
 </a>
 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -144,13 +108,6 @@ My academic and technical interests include **electronics, telecommunications, a
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" />
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=bash" width="40" height="40" alt="Bash" />
-</a>
-
-<a href="https://cmake.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cmake" width="40" height="40" alt="CMake" />
-</a>
 
 <a href="https://github.blog/2017-12-15-a-discussion-of-atom/" target="_blank" rel="noreferrer">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=atom" width="40" height="40" alt="Atom" />
@@ -171,9 +128,6 @@ My academic and technical interests include **electronics, telecommunications, a
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=css" width="40" height="40" alt="CSS" />
 </a>
 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=gcp" width="40" height="40" alt="Google Cloud" />
-</a>
 
 </p>
 
