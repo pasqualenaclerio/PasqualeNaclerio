@@ -24,14 +24,235 @@ My academic and technical interests include **electronics, telecommunications, a
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
+
+
+### ⚡ Electronics, Embedded Systems & Telecommunications
 
 <p align="left">
 
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=c" width="40" height="40" alt="C" />
+</a>
 
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=android,apple,arduino,atom,autocad,chatgbt,c,css,excel,python,git,github,illustrator,matlab,raspberrypi,linux,powerpoint,vscode,windows,word,)
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cpp" width="40" height="40" alt="C++" />
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino" width="40" height="40" alt="Arduino" />
+</a>
+
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=raspberrypi" width="40" height="40" alt="Raspberry Pi" />
+</a>
+
+<a href="https://platformio.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=platformio" width="40" height="40" alt="PlatformIO" />
+</a>
+
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=matlab" width="40" height="40" alt="MATLAB" />
+</a>
+
+<a href="https://www.3ds.com/products/simulia/cst-studio-suite" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" width="40" height="40" alt="CST Studio Suite" />
+</a>
 
 </p>
+
+
+### 📊 Scientific Computing & Data Analysis
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python" width="40" height="40" alt="Python" />
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=numpy" width="40" height="40" alt="NumPy" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=pandas" width="40" height="40" alt="Pandas" />
+</a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=matplotlib" width="40" height="40" alt="Matplotlib" />
+</a>
+
+<a href="https://scipy.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=scipy" width="40" height="40" alt="SciPy" />
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=scikitlearn" width="40" height="40" alt="Scikit-learn" />
+</a>
+
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" width="40" height="40" alt="Jupyter" />
+</a>
+
+</p>
+
+
+### 🖨️ 3D Printing, CAD & Design
+
+<p align="left">
+
+<a href="https://www.prusa3d.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prusa-research.svg" width="40" height="40" alt="Prusa 3D Printing" />
+</a>
+
+<a href="https://www.prusa3d.com/page/prusaslicer_424/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prusa-research.svg" width="40" height="40" alt="PrusaSlicer" />
+</a>
+
+<a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=autocad" width="40" height="40" alt="AutoCAD" />
+</a>
+
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=blender" width="40" height="40" alt="Blender" />
+</a>
+
+<a href="https://inkscape.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=inkscape" width="40" height="40" alt="Inkscape" />
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=illustrator" width="40" height="40" alt="Adobe Illustrator" />
+</a>
+
+</p>
+
+
+### 💻 Development Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=git" width="40" height="40" alt="Git" />
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=github" width="40" height="40" alt="GitHub" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=bash" width="40" height="40" alt="Bash" />
+</a>
+
+<a href="https://cmake.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cmake" width="40" height="40" alt="CMake" />
+</a>
+
+<a href="https://github.blog/2017-12-15-a-discussion-of-atom/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=atom" width="40" height="40" alt="Atom" />
+</a>
+
+</p>
+
+
+### 🌐 Web & Cloud
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=html" width="40" height="40" alt="HTML" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=css" width="40" height="40" alt="CSS" />
+</a>
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=gcp" width="40" height="40" alt="Google Cloud" />
+</a>
+
+</p>
+
+
+### 📝 Documentation & Academic Tools
+
+<p align="left">
+
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=latex" width="40" height="40" alt="LaTeX" />
+</a>
+
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=markdown" width="40" height="40" alt="Markdown" />
+</a>
+
+<a href="https://www.adobe.com/acrobat.html" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=acrobat" width="40" height="40" alt="Adobe Acrobat" />
+</a>
+
+</p>
+
+
+### 🖥️ Operating Systems & Platforms
+
+<p align="left">
+
+<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=apple" width="40" height="40" alt="macOS" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=linux" width="40" height="40" alt="Linux" />
+</a>
+
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=windows" width="40" height="40" alt="Windows" />
+</a>
+
+<a href="https://www.android.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=android" width="40" height="40" alt="Android" />
+</a>
+
+</p>
+
+
+### 📚 Office & Teaching
+
+<p align="left">
+
+<a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=word" width="40" height="40" alt="Microsoft Word" />
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" width="40" height="40" alt="Microsoft Excel" />
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" width="40" height="40" alt="Microsoft PowerPoint" />
+</a>
+
+<a href="https://www.microsoft.com/microsoft-teams/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=teams" width="40" height="40" alt="Microsoft Teams" />
+</a>
+
+</p>
+
+
+### 🤖 Artificial Intelligence
+
+<p align="left">
+
+<a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=chatgpt" width="40" height="40" alt="ChatGPT" />
+</a>
+
+</p>
+
 
 ---
 
