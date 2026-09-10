@@ -60,15 +60,7 @@ My academic and technical interests include **electronics, telecommunications, a
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="40" height="40" alt="Raspberry Pi" />
 </a>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" id="autocad">
-<style>
-#autocad {
-    rect {fill: #242938}
 
-    @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
-    }
-}
 ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=c,python,git,arduino,raspberrypi,linux)
 
 </p>
