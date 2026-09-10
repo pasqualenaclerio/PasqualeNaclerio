@@ -73,12 +73,8 @@ My academic and technical interests include **electronics, telecommunications, a
 
 <p align="left">
 
-<a href="https://www.prusa3d.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prusa-research.svg" width="40" height="40" alt="Prusa 3D Printing" />
-</a>
-
 <a href="https://www.prusa3d.com/page/prusaslicer_424/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prusa-research.svg" width="40" height="40" alt="PrusaSlicer" />
+  <img src="./icons/prusa.svg" width="40" height="40" alt="PrusaSlicer" />
 </a>
 
 <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
@@ -140,9 +136,6 @@ My academic and technical interests include **electronics, telecommunications, a
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=latex" width="40" height="40" alt="LaTeX" />
 </a>
 
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=markdown" width="40" height="40" alt="Markdown" />
-</a>
 
 <a href="https://www.adobe.com/acrobat.html" target="_blank" rel="noreferrer">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=acrobat" width="40" height="40" alt="Adobe Acrobat" />
